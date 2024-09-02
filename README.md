@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20Coders&textBg=false" />
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You&textBg=false&section=footer" />
 </p>
