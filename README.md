@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center">
-<img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=Zhong0118&theme=github-dark-blue&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zhong0118&theme=github-dark-blue&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhong0118&layout=compact" />
 <!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=Zhong0118&theme=github-dark-blue&date_format=%5BY.%5Dn.j&hide_border=true" /> -->
 </p>
