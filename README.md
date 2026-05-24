@@ -69,16 +69,8 @@ I like exploring new tools, building small products, designing practical systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Zhong0118&show_icons=true&hide=contribs&theme=default"
-    alt="mocX's GitHub stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhong0118&layout=compact&theme=default"
-    alt="Top Langs"
-  />
+  <img height="180" src="./profile/stats.svg" alt="mocX's GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
