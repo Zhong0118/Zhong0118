@@ -24,15 +24,15 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Zhong0118&show_icons=true&hide=contribs
+          options: username=Zhong0118&show_icons=true&include_all_commits=true&line_height=28&card_width=520&title_color=2F80ED&text_color=333333&icon_color=2F80ED&border_color=2F80ED&bg_color=ffffff
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+      
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Zhong0118&layout=compact&langs_count=8
+          options: username=Zhong0118&layout=compact&langs_count=8&card_width=360&title_color=2F80ED&text_color=333333&border_color=2F80ED&bg_color=ffffff
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
