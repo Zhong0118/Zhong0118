@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">mocX&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 60, Total Commits  : 1296, Total PRs: 79, Total Issues: 14, Contributed to (last year): 7</desc>
+        <title id="titleId">mocX&#39;s GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  : 1307, Total PRs: 84, Total Issues: 14, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 126.26527768541065;
+        stroke-dashoffset: 125.07767436759642;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B
+          B+
         </text>
       
         </g>
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >60</text>
+      >59</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >79</text>
+      >84</text>
     </g>
   </g><g transform="translate(0, 84)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
